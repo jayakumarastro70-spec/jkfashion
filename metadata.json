@@ -1,0 +1,6 @@
+{
+  "name": "ÉTOILE — Fashion & Sartorial Journal",
+  "description": "An editorial fashion monograph and curated blog exploring modern women's couture gowns, draping, and men's bespoke tailoring.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
